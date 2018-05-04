@@ -7,7 +7,7 @@ function isExist (arr,t) {
 			return true;
 		}
 	}
-	return false
+	return false;
 }
 
 var b = isExist(a,11);
